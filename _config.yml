@@ -1,0 +1,28 @@
+name: PEDS in Sports
+favicon: null
+layout_spectrum: 0.27267801971174777
+typography_spectrum: 0.4539496104698628
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7750349566340446
+  lightness: 0.8150721723213792
+  saturation: 0.8077007704414427
+  rhythmicContrast: 0.9376999526284635
+purpose: []
